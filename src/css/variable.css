@@ -1,0 +1,8 @@
+:root{
+    --background: linear-gradient(to bottom, rgb(244, 95, 137), rgb(226,100,149), rgb(208,104,161), rgb(188, 108, 173), rgb(170, 113, 185), rgb(151, 117, 197), rgb(133, 121, 209), rgb(114, 126, 221), rgb(95, 130, 232), rgb(77, 134,244));
+    --color-white: #ffff;
+    --color-black:#000000;
+    --color-button:#3ccc87;
+    --color-red:#f52e2e;
+    --color-green: #00c22b;
+}
